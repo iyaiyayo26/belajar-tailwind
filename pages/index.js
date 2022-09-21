@@ -1,4 +1,5 @@
 import TestDua from "./TestDua";
+import TestEmpat from "./TestEmpat";
 import TestSatu from "./TestSatu";
 import TestTiga from "./TestTiga";
 
@@ -8,6 +9,7 @@ export default function Home() {
       <TestSatu />
       <TestDua />
       <TestTiga />
+      <TestEmpat />
     </>
   );
 }

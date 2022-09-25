@@ -4,6 +4,7 @@ import TestEnam from "./TestEnam";
 import TestLima from "./TestLima";
 import TestSatu from "./TestSatu";
 import TestTiga from "./TestTiga";
+import TestTujuh from "./TestTujuh/TestTujuh";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <TestEmpat />
       <TestLima />
       <TestEnam />
+      <TestTujuh />
     </>
   );
 }

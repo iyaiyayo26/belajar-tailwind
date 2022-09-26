@@ -1,3 +1,4 @@
+import TestDelapan from "./TestDelapan/TestDelapan";
 import TestDua from "./TestDua";
 import TestEmpat from "./TestEmpat";
 import TestEnam from "./TestEnam";
@@ -16,6 +17,7 @@ export default function Home() {
       <TestLima />
       <TestEnam />
       <TestTujuh />
+      <TestDelapan />
     </>
   );
 }
